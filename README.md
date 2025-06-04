@@ -19,7 +19,7 @@ Sitema de permissão por rank.
 
 Sistema de honras2x por tempo determinado.
 
-https://github.com/Dr4gulaa/Dr4Bounty/assets/77586106/74530caf-33ef-4a6f-98a8-c023421df315
+https://github.com/Dr4gulaa/Dr4Bounty/assets/77586106/9bc26a7e-c928-4f39-98a8-990518ddd38c
 
 
 ## 💼 Comandos
