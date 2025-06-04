@@ -33,22 +33,22 @@ Players:
 
 Admins:
 
-  sethonra:
-    description: Adiciona uma quantidade especifica de honra para o player.
+  /sethonra:
+    Adiciona uma quantidade especifica de honra para o player.
     usage: /sethonra <player> <amount>
     permission: dr4honras.manager
 
-  delhonra:
-    description: Retira uma quantidade especifica de honra para o player.
+  /delhonra:
+    Retira uma quantidade especifica de honra para o player.
     usage: /delhonra <player> <amount>
     permission: dr4honras.manager
 
-  addhonra:
-    description: Adiciona uma quantia de honra no valor que o player já tem.
+  /addhonra:
+    Adiciona uma quantia de honra no valor que o player já tem.
     usage: /addhonra <player> <amount>
     permission: dr4honras.manager
 
-  honras2x:
-    description: Ativa multiplicador de honras por tempo determinado.
+  /honras2x:
+    Ativa multiplicador de honras por tempo determinado.
     usage: /honras2x <tempo>
     permission: dr4honras.manager
